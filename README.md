@@ -7,10 +7,15 @@
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudnado Java e C#
 
-- 💻 
-- 🎓 
-- 🔭 
-- 🌱 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ---
@@ -22,7 +27,7 @@
 ---
 
 ### Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,react,postgres,vscode,idea,postman)]
+![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,react,postgres,vscode,idea,postman)
 
 ###
 ---
