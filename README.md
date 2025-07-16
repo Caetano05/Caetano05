@@ -22,7 +22,7 @@
 ---
 
 ### Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,react,postgres,vscode,idea,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,react,postgres,vscode,idea,postman)]
 
 ###
 ---
