@@ -33,7 +33,7 @@
 ---
 
 ### Tecnologias e linguagens 💻
-![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,react,vscode,idea,postgres,postman)
+![My Skills](https://skillicons.dev/icons?i=java,spring,idea,postgres,postman)
 
 ###
 ---
